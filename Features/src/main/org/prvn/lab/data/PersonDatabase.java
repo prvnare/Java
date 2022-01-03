@@ -17,7 +17,7 @@ public class PersonDatabase {
         Person person6 = new Person( "Rajan",  "Jamshedji",  26,  "Lawyer",  "4835734QA",  "Jamaican",  "Male", 300000.0, Arrays.asList("Acroyoga","Research","Long-distance running","Aquascaping","Astrology"));
         Person person7 = new Person( "Ajay",  "Hussain",  27,  "Teacher",  "9857460SH",  "Scot",  "Male", 3000.0, Arrays.asList("Shuffleboard","Herping=","Frisbee","Beatboxing","Baking"));
         Person person8 = new Person( "Vijay",  "Ali",  18,  "Scientist",  "7141506RA",  "Saudi",  "Male", 20000.0, Arrays.asList("Noodling","Aircraft spotting","Handball","Airbrushing","Beatboxing"));
-        Person person9 = new Person( "Aditya",  "Nayudu",  19,  "Lecturer",  "0691084DH",  "Indian",  "FeMale", 90000.0, Arrays.asList("Herbalism","Bus spotting","Horsemanship","Photography","Blogging"));
+        Person person9 = new Person( "Ramani",  "Nayudu",  19,  "Lecturer",  "0691084DH",  "Indian",  "FeMale", 90000.0, Arrays.asList("Herbalism","Bus spotting","Horsemanship","Photography","Blogging"));
         Person person10 = new Person( "Raju",  "Palia",  30,  "Driver",  "EC4744643",  "Kenyan",  "Male", 80000.0, Arrays.asList("Orienteering","Geocaching","Figure skating","Slot car","Bowling"));
         Person person11 = new Person( "Kundan",  "Hafeez",  20,  "Worker",  "5484880UA",  "Mexican",  "Male", 60000.0, Arrays.asList("Hobby horsing","Meteorology","Beach volleyball","Shoemaking","Bell ringing"));
         Person person12 = new Person( "Gary",  "Gilmour",  31,  "Software",  "EC4744643",  "Eritrean",  "FeMale", 57000.0, Arrays.asList("Fossicking","Trainspotting","Radio-controlled model playing","Postcrossing","Bullet journaling"));
